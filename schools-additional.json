@@ -1,0 +1,83 @@
+[
+{
+      "id":"4533",
+      "school_details":[
+         {
+            "school":"Kutama",
+            "grade_codes":"[3ae, 5fg, 4re]",
+            "meal":"lunch",
+            "sports":"[]",
+            "reference_1":"John's lunch",
+            "other_references": ["main eggs", "kitchen", "food two"]
+         },
+         {
+            "school":"Freds",
+            "grade_codes":"[9gt, 7gh, 6hf]",
+            "meal":"lunch",
+            "sports":"[]",
+            "reference_1":"Playing with the dog",
+            "other_references": ["main eggs", "spare wheel", "food three", "janitor"]
+         }
+      ],
+      "score":"95"
+},
+{
+      "id":"6578",
+      "school_details":[
+         {
+            "school":"Kutama",
+            "grade_codes":"[9tr, 5yu]",
+            "meal":"lunch",
+            "sports":"[]",
+            "reference_1":"Sitting on the stands",
+            "other_references": ["football", "3rd series"]
+         },
+         {
+            "school":"Mazowe",
+            "grade_codes":"[]",
+            "meal":"lunch",
+            "sports":"[]",
+            "reference_1":"Playing with the dog",
+            "other_references": [
+                 null
+             ]
+         }
+      ],
+      "score":"80"
+},
+{
+      "id":"9876",
+      "school_details":[
+         {
+            "school":"Roosevelt",
+            "grade_codes":"[4yu, 8ij]",
+            "meal":"dinner",
+            "sports":"[]",
+            "reference_1":"sportsroom",
+            "other_references": ["footballs", "restroom"]
+
+         },
+         {
+            "school":"St Dominics",
+            "grade_codes":"[]",
+            "meal":"lunch",
+            "sports":"[]",
+            "reference_1":"meal two",
+            "other_references": [
+                 null
+             ]
+         },
+         {
+            "school":"Johns",
+            "grade_codes":"[]",
+            "meal":"dinner",
+            "sports":"[]",
+            "reference_1":"watching telly",
+            "other_references": [
+                 null
+             ]
+         }
+      ],
+      "score":"87"
+}
+]
